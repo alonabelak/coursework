@@ -1,0 +1,25 @@
+[
+    {
+        "img":"blog1.png",
+        "header":"Routine",
+        "paragr":"How to Layer Your Skincare Products",
+        "detail":"That’s why you’ll never have to worry about unnecessary ingredients, perfume, colourants, Alcohol Denat or Sodium Lauryl Sulfate (SLS), that are super drying for the skin and can lead to dehydration, irritation and acne. We carefully pick and put together the best humectants (molecules, that attract and binds moisture) and mild, but efficiently cleansing ingredients.",
+        "id":"1"
+    },
+    {
+        "img":"blog2.png",
+        "header":"Routine",
+        "paragr":"How to Avoid Ingredient Conflicts in Your Routine",
+        "detail":"You are not alone in having no earthly idea what a serum is. Even if you're the proud owner of several serums, it's not a particularly clear product on it's surface. Think of the contradictions: It's moisturizing, but you still use moisturizer. It can be oily, but it's not necessarily face oil. It can be watery, but is it essence? So many questions and we haven't even gotten to ingredient lists yet!",
+        "id":"2"
+    },
+    {
+       "img":"blog3.png",
+        "header":"Routine",
+        "paragr":"How to Simplify Your Skincare Routine",
+        "detail":"Skincare should never stress you out (that would sort of defeat the purpose), so we pooled our collective knowledge, did a bit more research, and compiled a cheat sheet of sorts. There's not going to be a test, but study up anyway. We hear skincare talk makes great party ice breakers.",
+        "id":"3"
+    }
+    
+
+]

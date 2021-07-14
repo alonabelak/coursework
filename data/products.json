@@ -1,0 +1,35 @@
+[
+    {
+        "img":"mostpopular1.png",
+        "header":"The Ritual",
+        "span":"Cleanser + Serum + Moisturizer",
+        "paragr":"Custom, complementary, and oh so simple. Your personalized products work better together to increase routine effectiveness and support your skin goals.",
+        "detail":"That’s why you’ll never have to worry about unnecessary ingredients, perfume, colourants, Alcohol Denat or Sodium Lauryl Sulfate (SLS), that are super drying for the skin and can lead to dehydration, irritation and acne. We carefully pick and put together the best humectants (molecules, that attract and binds moisture) and mild, but efficiently cleansing ingredients.",
+        "id":"1"
+    },
+    {
+        "img":"mostpopular2.png",
+        "header":"The Serum",
+        "span":"Serum",
+        "paragr":"A daily-use serum that delivers a powerful dose of actives to your skincare routine to help you reach all of your skin goals.",
+        "detail":"You are not alone in having no earthly idea what a serum is. Even if you're the proud owner of several serums, it's not a particularly clear product on it's surface. Think of the contradictions: It's moisturizing, but you still use moisturizer. It can be oily, but it's not necessarily face oil. It can be watery, but is it essence? So many questions and we haven't even gotten to ingredient lists yet!",
+        "id":"2"
+    },
+    {
+       "img":"mostpopular3.png",
+        "header":"The Boost",
+        "span":"Serum + Moisturizer",
+        "paragr":"Boost your natural glow with a double-action duo that lets you use more actives without conflict and pair ingredients that complement each other's effects.",
+        "detail":"Skincare should never stress you out (that would sort of defeat the purpose), so we pooled our collective knowledge, did a bit more research, and compiled a cheat sheet of sorts. There's not going to be a test, but study up anyway. We hear skincare talk makes great party ice breakers.",
+        "id":"3"
+    },
+    {
+        "img":"mostpopular4.png",
+        "header":"The Base",
+        "span":"Cleanser + Serum",
+        "paragr":"A good skin day starts with a good base. Our pH-balancing custom cleanser gives your unique skin a fresh foundation so your custom serum can work even harder on targeting your goals.",
+        "detail":"Serums can be chock-full of moisturizing ingredients (hyaluronic acid, ceramides) to help skin retain moisture. But, that doesn't make them moisturizers in the traditional sense. Face lotions and creams are richer and create a barrier on top of the skin to keep all that good stuff in.",
+        "id":"4"
+    }
+
+]
